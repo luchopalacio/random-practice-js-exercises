@@ -1,8 +1,8 @@
-## Ejercicio:  Sumatoria de MCM de un rangos
+## Ejercicio:  MCM de un rango de números
 
-### Descripcion
+### Descripción
 
-Se busca crear una función que recibe un arreglo de dos números y devuelve la sumatoria de los minimo común múltiplo de los números consecutivos dentro del rango de los dos números recibidos por parámetro.
+Se debe crear una función que reciba un arreglo con dos números y devuelva el **mínimo común múltiplo (MCM)** de **todos los números consecutivos** que se encuentran dentro del rango definido por esos dos valores.
 
 ### Ejemplos
 ```javascript
