@@ -1,2 +1,3 @@
 # JS Practice
-Repositorio creado con el objetivo de subir algunos ejercicios de práctica en JavaScript
+This repository contains a collection of JavaScript exercises created for practice and learning purposes.
+
